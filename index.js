@@ -7,6 +7,7 @@ const courses = [
     { id: 3, name: "cc3" },
     { id: 4, name: "cc4" }
 ]
+//* spaces comment
 app.get('/', (req, res) => {
     res.send("hello ghfhghkjn")
 })
