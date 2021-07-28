@@ -1,0 +1,7 @@
+@media (max-width:700px) {
+    .img-responsive{
+        max-width: 50%;
+        min-width: 200%;
+    }
+
+}
